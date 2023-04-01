@@ -1,6 +1,6 @@
 {
     "name": "devrooy/laravel-translation",
-    "description": "A tool for managing all of your Laravel translations",
+    "description": "A tool for managing all of your PHP 8.x & Laravel translations",
     "type": "library",
     "license": "MIT",
     "require": {

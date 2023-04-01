@@ -43,13 +43,12 @@ Below are a full list of features:
 |      7.x      |          1.x        |
 |      8.x      |          2.x        |
 |      9.x      |          2.x        |
-|      10.x     |          2.x        |
 
 ## Installation
 
 Install the package via Composer
 
-`composer require devrooy/laravel-translation`
+`composer require joedixon/laravel-translation`
 
 Publish configuration and assets
 
